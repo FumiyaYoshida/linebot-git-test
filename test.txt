@@ -2,3 +2,5 @@ test message
 hello, world!
 fugafuga
 piyopiyo
+good morning, world!
+good evening, world!
